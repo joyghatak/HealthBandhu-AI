@@ -8,7 +8,7 @@
 
 ##  Live Demo
 
-[![Demo lin]](https://huggingface.co/spaces/JoyGhatak/healthbandhu-ai)
+[![Demo link]](https://huggingface.co/spaces/JoyGhatak/healthbandhu-ai)
 
 ---
 
