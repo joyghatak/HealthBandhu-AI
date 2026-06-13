@@ -8,14 +8,14 @@
 
 ##  Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/JoyGhatak/healthbandhu-ai)
+[![Demo lin]](https://huggingface.co/spaces/JoyGhatak/healthbandhu-ai)
 
 ---
 
 ##  Overview
 
 HealthBandhu is an AI-powered healthcare assistant that predicts possible medical conditions from patient-reported symptoms. It covers **754 disease classes** across **377 clinical symptom features**, trained on **246,945 patient records**.
-
+k
 **Developer:** Joy Ghatak | B.Tech CSE | UEM Kolkata
 
 ---
@@ -105,14 +105,9 @@ streamlit run app.py
 
 ---
 
-##  Deploy to Streamlit Cloud
+##  Deploy to Hugging Face
 
-1. Push repository to GitHub (must be public)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click **"New app"**
-5. Select your repository → `app.py`
-6. Click **"Deploy"** — live in ~2 minutes
+
 
 ---
 
